@@ -1,2 +1,2 @@
 # mock320
-into to github setup for CS320 
+Repository for git setup, Aarin Mehta
